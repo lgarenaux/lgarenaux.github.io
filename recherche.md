@@ -4,6 +4,3 @@ permalink: /recherche/
 
 
 Ceci est un autre test.
-
-
-Blabla
