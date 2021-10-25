@@ -1,7 +1,7 @@
 ## Bienvenue sur cette page.
 
 Ceci est un test.
-Voici un lien vers une autre [page](./recherche):
+Voici un lien vers une autre [page](./recherche.html):
 
 
 You can use the [editor on GitHub](https://github.com/lgarenaux/lgarenaux.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
